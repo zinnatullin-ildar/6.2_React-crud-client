@@ -4,7 +4,7 @@
 
 Backend вы можете либо написать сами, либо взять готовый (из каталога `backend`).
 
-![CRUD](https://github.com/netology-code/ra16-homeworks/raw/master/lifecycle-http/crud/assets/crud.png)
+![CRUD](https://github.com/netology-code/ra16-homeworks/blob/master/lifecycle-http/crud/assets/crud.png)
 
 ## Общая механика
 
